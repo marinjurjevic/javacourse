@@ -1,4 +1,4 @@
-#Introduction to Java programming language
+# Introduction to Java programming language
 
 Programming course I attended as sophomore on Faculty of Electrical Engineering and Computing in Zagreb. 
 
