@@ -1,0 +1,29 @@
+html {
+  text-align: center;
+}
+
+table{
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+}
+
+body {
+    background-image: url("../images/bgColor.jpg");
+    background-repeat: repeat;
+}
+
+.error{
+	color: red;
+	font-style: italic;
+}
+
+.loginout{
+	text-align: right;
+	
+}
+
+form {
+    display: inline-block;
+    text-align: center;
+}
+

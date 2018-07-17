@@ -1,0 +1,54 @@
+garfield.jpg
+Garfield waving
+garfield, cartoon, retard
+tom_jerry.jpg
+Tom and Jerry 
+tom, jerry, cartoon, funny
+looney_toons.jpg
+Looney toons franchise
+funny, cartoon, comedy, pig
+bugs_bunny.jpg
+Funny little rabbit
+cartoon, bunny, carrot, fast
+family_guy.jpg
+Family guy crazy 
+cartoon, retard, funny
+simpsons.jpg
+Best comedy cartoon ever
+cartoon, retard, funny, crazy
+xmen.jpg
+X-men franchise characters
+xmen, fictional, superhero, strip, marvel
+batman.jpg
+Batman rises
+batman, superhero, DC
+captain_america.jpg
+Captain America show
+fictional, superhero, marvel, strip
+catwoman.jpg
+Batman's girl
+catwoman, batman, DC, antihero
+deadpool.jpg
+Crazy funny comedy antihero
+antihero, xmen, marvel, crazy, comedy
+ironman.jpg
+Ironman flying
+superhero, marvel, rich
+magneto.jpg
+Magneto with helmet
+xmen, marvel, metal, strip, villain
+mystique.jpg
+Shape shifter
+xmen, marvel, villain
+professor_xavier.jpg
+Mind controller
+xmen, superhero, marvel
+superman.jpg
+THE superhero
+superhero, DC, strip
+thor.jpg
+Dude with big hammer
+marvel, superhero, strip
+wolverine.jpg
+Catman with claws
+marvel, superhero, unbeatable, xmen, strip

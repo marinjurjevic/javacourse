@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MojDemo.java&apos; to &apos;HW02-0036463585/src/hr.fer.zemris.java.custom.collections&apos;&#x0D;&#x0A;- Original project: &apos;HW02-0036483368&apos;&#x0D;&#x0A;- Destination element: &apos;HW02-0036463585/src/hr.fer.zemris.java.custom.collections&apos;&#x0D;&#x0A;- Original element: &apos;hr.fer.zemris.java.custom.collections.MojDemo.java&apos;" description="Copy compilation unit" destination="=HW02-0036463585/src&lt;hr.fer.zemris.java.custom.collections" element1="/src&lt;hr.fer.zemris.java.custom.collections{MojDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1459037755161" units="1" version="1.0"/>
+</session>

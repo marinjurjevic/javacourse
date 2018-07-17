@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UDPKlijent.java&apos; to &apos;Predavanje10/src/hr.fer.zemris.java.tecaj10.udp&apos;&#x0D;&#x0A;- Original project: &apos;Predavanje10&apos;&#x0D;&#x0A;- Destination element: &apos;Predavanje10/src/hr.fer.zemris.java.tecaj10.udp&apos;&#x0D;&#x0A;- Original element: &apos;hr.fer.zemris.java.tecaj10.udp.UDPKlijent.java&apos;" description="Copy compilation unit" destination="/src&lt;hr.fer.zemris.java.tecaj10.udp" element1="/src&lt;hr.fer.zemris.java.tecaj10.udp{UDPKlijent.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1464436026420" units="1" version="1.0"/>
+</session>

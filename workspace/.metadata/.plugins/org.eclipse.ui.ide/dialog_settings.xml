@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\15. DZ"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Neutral\Desktop\HW18-0036482883.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW18-0036486627.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW18-0036472037.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036489629-2.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036489629-1.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036487372-2.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036487372-1.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036479316-2.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW16-0036479316-1.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW15-0036485245.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW15-0036484370.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW15-0036489410.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\15. DZ\adresar.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW14-0036485084.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW14-0036476730.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW14-0036484045.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW13-0036481732.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW13-0036481519.zip"/>
+			<item value="C:\Users\Neutral\Desktop\HW13-0036483102.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\13. DZ\HW13-0036483368.zip"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="621" key="DIALOG_X_ORIGIN"/>
+		<item value="336" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="580" key="DIALOG_HEIGHT"/>
+		<item value="306" key="DIALOG_X_ORIGIN"/>
+		<item value="127" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

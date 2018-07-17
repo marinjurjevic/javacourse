@@ -1,0 +1,29 @@
+html {
+  text-align: center;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+body {
+    background-image: url("../images/bgImage.gif");
+    background-repeat: repeat;
+}
+
+input[type=button] {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+input[type=button]:hover {
+    background-color: #3e8e41;
+}

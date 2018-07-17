@@ -1,0 +1,11 @@
+Message digest is a fixed-size binary digest which is calculated from arbitrary long data. The idea is simple.
+You have some original data (lets denote it D); this can be a file on disk. Then you calculate a digest for this
+data (lets denote it S); for example, if S is calculated with SHA-256 algorithm, the digest will always be
+256-bits long, no matter how long is the original file you digested. Generally speaking, the original data can
+not be reconstructed from the digest and this is not what the digests are used for. Digests are used to verify if
+the data you have received (for example, when downloading the data from the Internet) arrived unchanged.
+You will verify this by calculating the digest on the file you have downloaded and then you will compare the
+calculated digest with the digest which is published on the web site from which you have started the
+download. If something has changed during the download, there is extremely high probability that the
+calculated digest will be different from the one published on the web site. You can see this on many of webpages
+which offer file download. Visit, for example, Open Office down

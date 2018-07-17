@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="1095" key="DIALOG_X_ORIGIN"/>
+		<item value="111" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="759" key="dialogHeight"/>
+		<item value="1440" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.eclipse.rse.ui.newWizards.rseCategory"/>
+			<item value="org.eclipse.wst.server.ui"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="706" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="744" key="DIALOG_HEIGHT"/>
+		<item value="615" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\18. DZ\HW18-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\zavrsni.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\16. DZ\HW16-0036483368-2.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\16. DZ\HW16-0036483368-1.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\15. DZ\HW15-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\15. DZ\HW14-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\14. DZ\HW13-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\13. DZ\HW13-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\12. DZ\HW12-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\11. DZ\HW11-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\10. DZ\HW10-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\9. DZ\HW09-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\8. DZ\HW08-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\7. DZ\HW07-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\6. DZ\HW06-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\5. DZ\HW05-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\4. DZ\HW04-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\3. DZ\HW03-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\2. DZ\HW02-0036483368.zip"/>
+			<item value="C:\Users\Neutral\Documents\FER\VJEŠTINE\OPJJ\DZ\1. DZ\HW01-0036483368.zip"/>
+		</list>
+	</section>
+</section>

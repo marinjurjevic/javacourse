@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Demo.java&apos; to &apos;HW05-0036482787/src/hr.fer.zemris.java.tecaj.hw5.collections&apos;&#x0D;&#x0A;- Original project: &apos;HW05-0036482787&apos;&#x0D;&#x0A;- Destination element: &apos;HW05-0036482787/src/hr.fer.zemris.java.tecaj.hw5.collections&apos;&#x0D;&#x0A;- Original element: &apos;hr.fer.zemris.java.tecaj.hw5.collections.Demo.java&apos;" description="Copy compilation unit" destination="/src&lt;hr.fer.zemris.java.tecaj.hw5.collections" element1="/src&lt;hr.fer.zemris.java.tecaj.hw5.collections{Demo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1461070061681" units="1" version="1.0"/>
+</session>

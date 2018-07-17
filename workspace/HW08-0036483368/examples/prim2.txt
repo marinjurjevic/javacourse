@@ -1,0 +1,37 @@
+#Program ispisuje sljedećih n brojeva počevši od prvog većeg
+			jump @start				; ovo je instrukcija na adresi 0
+@brojac:	DEFINT 5				; ovoliko sljedećih brojeva će se ispisati
+@lokacija:	DEFINT 0				; ovdje spremamo učitani broj
+@nula:		DEFINT 0				; nula za usporedbu s brojačem u petlji
+
+#Poruke za ispis na standardni izlaz
+@msg0:		DEFSTR "Unesite početni broj: "
+@msg1:		DEFSTR "Unos nije moguće protumačiti kao cijeli broj.\n"
+@msg2:		DEFSTR "Sljedećih "
+@msg3:		DEFSTR " brojeva je:\n"
+@msg4:		DEFSTR "\n"
+
+@start:		move r8, 4				; r8 ce bit "pointer" na poruke
+			echo [r8]				; ispisi ulaznu poruku
+			iinput @lokacija		; pitaj korisnika broj
+			jumpIfTrue @ispisi		; ako je valjan, kreni ispisivat 
+			echo [r8+1]				; ispisi da nije valjan
+			jump @start				; pitaj korisnika ponovno
+
+@ispisi:	load r0, @brojac		; ucitaj brojac
+			echo [r8+2]				; ispisi @msg2
+			echo r0					; ispisi koliko brojeva slijedi
+			echo [r8+3]				; ispisi @msg3
+			load r1, @lokacija		; ucitaj korisnikov broj u r1
+			load r2, @nula			; ucitaj nulu
+			
+@petlja:	testEquals r0, r2		; ispitaj jesmo li gotovi
+			jumpIfTrue @gotovo		; ako jesmo skoci na kraj
+			
+			increment r1			; povecaj korisnikov broj
+			echo r1					; ispisi korisnikov broj
+			echo [r8+4]				; predji u novi red
+			decrement r0			; smanji brojac za 1
+			jump @petlja			; ponovi
+			
+@gotovo:	halt

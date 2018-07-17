@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;hr.fer.zemris.java.tecaj.hw6.demo4&apos; to &apos;hr.fer.zemris.java.custom.scripting&apos;&#x0D;&#x0A;- Original project: &apos;HW06-0036483368&apos;&#x0D;&#x0A;- Original element: &apos;HW06-0036483368/tests/multistack/hr.fer.zemris.java.tecaj.hw6.demo4&apos;&#x0D;&#x0A;- Renamed element: &apos;HW06-0036483368/tests/multistack/hr.fer.zemris.java.custom.scripting&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;hr.fer.zemris.java.tecaj.hw6.demo4&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/tests\/multistack&lt;hr.fer.zemris.java.tecaj.hw6.demo4" name="hr.fer.zemris.java.custom.scripting" qualified="false" references="true" stamp="1461064776385" textual="false" version="1.0"/>
+</session>
